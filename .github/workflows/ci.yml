@@ -31,4 +31,4 @@ jobs:
         uses: docker/build-push-action@v5
         with:
           push: true
-          tags: Eberechi09/myflaskapp:latest
+          tags: eberechi09/myflaskapp:latest
