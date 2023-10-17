@@ -36,7 +36,7 @@ A simple Flask web application that is containerized using Docker. This reposito
 4. Visit `http://localhost:5000` in your browser to access the application.
 
 ## CI Workflow
-
+The workflows file for this project is located in the .github folder
 The CI process is configured through GitHub Actions:
 
 - Triggered on every push to the `main` branch.
